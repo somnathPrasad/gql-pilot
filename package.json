@@ -1,7 +1,7 @@
 {
   "name": "gql-pilot",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "bin": {
     "gql-pilot": "index.js"
   },
